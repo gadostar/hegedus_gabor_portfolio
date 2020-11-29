@@ -1,0 +1,181 @@
+body{
+	background-image: url(https://www.wallpapertip.com/wmimgs/0-3788_simple-light-blue-background.jpg);
+	font-size: 14px;
+	font-family : 'Castoro', sans-serif;
+	font-weight :280;
+
+}
+
+*, *:: before, *::after{
+	margin: 0,
+	padding: 0;
+}
+
+.címjobb{
+	border: 4px white;
+	border-radius: 30px;
+	margin-top : 28px;
+	margin-left: 240px;
+	margin-right: 210px;
+	padding: 0px;
+	font-size : 69px;
+	text-align : center;
+	color:black;
+	padding: 10px;
+	background-color:#778899;
+
+	
+}
+
+
+
+
+
+
+
+.üdv{
+	
+	
+	margin-left: 300px;
+	margin-top: 0px;
+	margin-right: 330px;
+	padding: 8px;
+	font-size: 33px;
+	color:#4682B4;
+	
+
+
+	
+}
+.headerbal{
+	margin-top:0px;
+	height: 59px;
+	margin-bottom: 40px;
+
+
+	
+
+	
+}
+.szoveg{
+	text-align: center;
+	margin-left: 250px;
+	margin-right: 40px;
+	font-size : 28px;
+	color:#008080;
+}
+.kep1{
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 600px;
+
+}
+
+
+a{
+	text-decoration: none;
+	color:#00008B;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	padding-left: 30px;
+	text-align: center;
+	font-weight: 800;
+	font-size: 30px;
+	border: 2px black;
+	background-color: #00BFFF;
+	border-radius: 30px;
+
+
+	
+ }
+
+.dd{
+	padding: 20px;
+	margin: 30px;
+
+
+}
+
+
+.kep2{
+	
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 1350px;
+	margin-bottom: 	00px;
+	float: left;
+	
+
+
+}
+.tanul{
+	text-decoration: none;
+	font-size:35px;
+	padding-right: 00px;
+	padding-bottom: 00px;
+	padding-top: 0px;
+	padding-left: 380px;
+	text-align: center;
+	font-weight:600;
+	height: 54px;
+	
+
+}
+b{
+	padding: 40px;
+}
+
+
+.szovegk{
+	
+	font-size : 28px;
+	color:#556B2F;
+	text-align: center;
+	
+}
+.szovegkdd{
+	
+	font-size : 28px;
+	color:#B22222;
+	text-align: center;
+	
+}
+.szovegkddd{
+	
+	font-size : 28px;
+	color:#800080;
+	text-align: center;
+	
+}
+
+
+.valami{
+	display: inline-block;
+	font-size: 30px;
+	font-weight: 800;
+	padding: 50px;
+}
+
+.idk{
+	margin-left: 400px;
+
+}
+
+img{
+	display: inline-block;
+	float: left;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 10px;
+	margin-bottom: 	100px;
+}
+img{
+	display: inline-block;
+	float: left;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 10px;
+	margin-bottom: 	100px;
+
+
